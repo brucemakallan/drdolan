@@ -40,6 +40,11 @@
 	text-decoration: none !important;
 }
 
+.sidebar {
+	padding-top: 50px; 
+    padding-left: 10px;
+}
+
 /*
 	SOCIAL MEDIA BUTTONS
 */
